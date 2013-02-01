@@ -1,0 +1,86 @@
+body {
+    background-image: url(../images/escheresque.png);
+    background-size: 46px 29px;
+}
+
+@media (min-width: 481px) {
+  body {
+    padding-top: 60px;
+    padding-bottom: 70px;
+  }
+}
+
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+  body {
+    background-image: url(../images/escheresque_@2X.png);
+  }
+}
+
+.sidebar-explainer {
+  margin: 10px;
+}
+
+#featured, #content, .well {
+  background-color: white;
+  border: 1px solid #6699aa;
+  border-radius: 4px;
+  padding: 19px;
+}
+
+.well {
+  padding: 5px;
+}
+
+#content {
+  margin-bottom: 20px;
+}
+
+footer.navbar {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6, .nav-header, .entry-title a, .entry-title a:visited {
+  color: #88aaaa;
+}
+
+.nav-list a, .nav-list a:hover, .nav-list a:visited, .nav-list a:focus, a, a:hover, a:visited, a:focus {
+  color: #447799;
+}
+
+.twitter-share-button {
+  float: right;
+}
+
+.readmore {
+  display: block;
+  margin-left: auto;
+  text-align: right;
+}
+
+.post-info, .post-info a {
+  color: #999;
+  margin: 5px 0;
+}
+
+.post-info a {
+  text-decoration: underline;
+}
+
+.post-info a.label {
+  color: white;
+  font-weight: normal;
+  text-decoration: none;
+  margin: 0 2px;
+}
+
+img.align-right {
+  float: right;
+}
+
+div.comments {
+  padding-top: 20px;
+}
