@@ -20,7 +20,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 }
 
 .sidebar-explainer {
-  margin: 10px;
+  padding: 15px 15px 0;
 }
 
 #featured, #content, .well {
@@ -43,8 +43,9 @@ footer.navbar {
   margin-bottom: 0;
 }
 
-h1, h2, h3, h4, h5, h6, .nav-header, .entry-title a, .entry-title a:visited {
+h1, h2, h3, h4, h5, h6, .nav-header, .entry-title a, .entry-title a:visited, .entry-title a:hover {
   color: #88aaaa;
+  text-decoration: none;
 }
 
 .nav-list a, .nav-list a:hover, .nav-list a:visited, .nav-list a:focus, a, a:hover, a:visited, a:focus {
