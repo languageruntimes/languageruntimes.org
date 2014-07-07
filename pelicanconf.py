@@ -27,7 +27,8 @@ LINKS =  (('Lambda the Ultimate', 'http://lambda-the-ultimate.org/'),
 	      ('Dylan Foundry', 'http://dylanfoundry.org/'))
 
 # Social widget
-SOCIAL = (('icon-github', 'GitHub', 'https://github.com/languageruntimes/'),)
+SOCIAL = (('icon-github', 'GitHub', 'https://github.com/languageruntimes/'),
+          ('icon-twitter', 'Twitter', 'https://twitter.com/LangRuntimes'))
 
 GITHUB_URL = 'https://github.com/languageruntimes/'
 TWITTER_USERNAME = 'LangRuntimes'
