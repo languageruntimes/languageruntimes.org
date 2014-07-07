@@ -7,7 +7,7 @@ Talk to us
 Mailing List:
    `language-runtimes`_
 IRC:
-   ``##impl`` on ``irc.freenode.net`` (port 6667).
+   ``##languageruntimes`` on ``irc.freenode.net`` (port 6667).
 
 Ideas
 =====
