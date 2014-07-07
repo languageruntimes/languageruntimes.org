@@ -20,6 +20,11 @@ Licensing and Copyright
 This is being discussed. The current favored license for content
 published via languageruntimes.org will be `CC BY-SA 4.0`_.
 
+Peer Review
+===========
+
+This is being discussed as well.
+
 .. _language-runtimes: https://groups.google.com/forum/#!forum/language-runtimes
 .. _list of ideas: ../ideas/
 .. _CC BY-SA 4.0: http://creativecommons.org/licenses/by-sa/4.0/
